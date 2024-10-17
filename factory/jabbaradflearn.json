@@ -1,5 +1,11 @@
 {
 	"name": "jabbaradflearn",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "AzureBlobStorage1",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
 	"location": "southeastasia",
 	"identity": {
 		"type": "SystemAssigned",
