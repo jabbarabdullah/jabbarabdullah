@@ -1,0 +1,9 @@
+{
+	"name": "jabbaradflearn",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "303533d5-d5aa-472c-88e5-c29bccc9fc0f",
+		"tenantId": "5ba1b5a8-4df4-44bd-bc63-de591fb0dc28"
+	}
+}
