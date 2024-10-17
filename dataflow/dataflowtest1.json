@@ -53,6 +53,7 @@
 				"          CITY as string,",
 				"          STATE as string",
 				"     ),",
+				"     filePattern:'poskod - Copy',",
 				"     dateFormat:'yyyy-MM-dd',",
 				"     timestampFormat:'yyyy.MM.dd hh:mm:ss a',",
 				"     skipDuplicateMapInputs: true,",
